@@ -38,6 +38,7 @@
         <div>
             <h3>Sample JSON data</h3>
             <pre class="code-block"><code><?php include('./includes/codeblocks/js-map-json.php') ?></code></pre>
+            <p>Extra: sample data can be generated here: <a href="https://www.mockaroo.com/" target="_blank">Mockaroo</a></p>
             <h3>Sample 1</h3>
             <p>Converts the raw data into an object with name-value pairs of our choice</p>
             <pre class="code-block"><code><?php include('./includes/codeblocks/js-map-1.php') ?></code></pre>
