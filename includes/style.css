@@ -21,7 +21,6 @@ content{
     display: block;
     background: #ffffff;
     width: 80%;
-    height: 90%;
     margin: 0 auto;
     border-color: #c5c5c5;
     border-style: solid;
@@ -38,8 +37,25 @@ h2{
     font-size: 1.4em;
     margin-bottom: 20px;
 }
-h3{ font-size: 1.2em; }
+h3{
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
 
+code {
+    font-family: monospace;
+    outline: 1px dashed #ff0000;
+    background-color: #fbf3e4;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+}
+
+code.inline-small {
+    padding: 0 5px;
+    margin: 5px;
+}
 details{
     margin-bottom: 20px;
 }
@@ -49,6 +65,7 @@ details summary{
     outline: none;
     border-radius: 5px;
     font-size: 1.2em;
+    cursor: pointer;
 }
 details div{
     padding: 20px 30px 30px 30px;
