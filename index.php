@@ -18,10 +18,11 @@
 
                 <?php include("./includes/sections/js.php"); ?>
                 <?php include("./includes/sections/server.php"); ?>
+                <?php include("./includes/sections/taskrunners.php"); ?>
                 <?php include("./includes/sections/general.php"); ?>
 
             </content>
         </div>
     </body>
-    
+
 </html>
