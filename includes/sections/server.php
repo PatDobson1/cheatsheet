@@ -41,7 +41,7 @@
         <summary>Start a new (blank) React project</summary>
         <div>
             <ol>
-                <li><code class="inline-small">npm create-react-app name-of-project</code></li>
+                <li><code class="inline-small">npx create-react-app name-of-project</code></li>
                 <li><code class="inline-small">npm start</code></li>
                 <li><code class="inline-small">npm run build</code> (for production build)</li>
             </ol>
