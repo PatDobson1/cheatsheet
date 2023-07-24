@@ -48,3 +48,14 @@
         </div>
     </details>
 <!-- ----------------------------------------------------------------------- -->
+
+<!-- Regex ----------------------------------------------------------------- -->
+    <details>
+        <summary>Regex's</summary>
+        <div>
+            <h3>Alphanumeric only</h3>
+            <pre class="code-block"><code>var b = a.replace(/[^a-z0-9]/gi, '');</code></pre>
+            <p>(Replaces everything with '')</p>
+        </div>
+    </details>
+<!-- ----------------------------------------------------------------------- -->
