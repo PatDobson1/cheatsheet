@@ -16,11 +16,14 @@
             </header>
             <content>
 
-                <?php include("./includes/sections/js.php"); ?>
-                <?php include("./includes/sections/server.php"); ?>
-                <?php include("./includes/sections/taskrunners.php"); ?>
-                <?php include("./includes/sections/git.php"); ?>
-                <?php include("./includes/sections/general.php"); ?>
+                <?php
+                    include("./includes/sections/js.php");
+                    include("./includes/sections/server.php");
+                    include("./includes/sections/react.php");
+                    include("./includes/sections/taskrunners.php");
+                    include("./includes/sections/git.php");
+                    include("./includes/sections/general.php");
+                ?>
 
             </content>
         </div>

@@ -13,7 +13,8 @@
                     </ol>
                 </li>
                 <li>
-                    Edit C:\Windows\System32\drivers\etc\hosts
+                    Edit C:\Windows\System32\drivers\etc\hosts<br />
+                    ** Note : Run notepad or notepad++ in <em>administrator</em> mode
                     <ol>
                         <li>Add reference to new site e.g. <code class="inline-small">127.0.0.1 newsitename.local</code></li>
                     </ol>
@@ -34,17 +35,4 @@
         </div>
     </details>
 
-<!-- ----------------------------------------------------------------------- -->
-
-<!-- Start a new React project ------------------------------------------------>
-    <details>
-        <summary>Start a new (blank) React project</summary>
-        <div>
-            <ol>
-                <li><code class="inline-small">npx create-react-app name-of-project</code></li>
-                <li><code class="inline-small">npm start</code></li>
-                <li><code class="inline-small">npm run build</code> (for production build)</li>
-            </ol>
-        </div>
-    </details>
 <!-- ----------------------------------------------------------------------- -->

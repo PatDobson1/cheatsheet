@@ -42,6 +42,10 @@ h3{
     margin: 10px 0;
 }
 
+em {
+    font-style: italic;
+}
+
 code {
     font-family: monospace;
     outline: 1px dashed #ff0000;
