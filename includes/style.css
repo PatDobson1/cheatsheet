@@ -71,6 +71,10 @@ details summary{
     font-size: 1.2em;
     cursor: pointer;
 }
+details summary.top-level {
+    font-weight: 700;
+    font-size: 1.4em;
+}
 details div{
     padding: 20px 30px 30px 30px;
     border: 1px solid #e6e3e3;
