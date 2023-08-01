@@ -88,5 +88,18 @@
             </details>
         <!-- ---------------------------------------------------------------------- -->
 
+        <!-- Array filtering ------------------------------------------------------ -->
+            <details>
+                <summary>Array filtering</summary>
+                <div>
+                    <h3>Sample JSON data</h3>
+                    <pre class="code-block"><code><?php include('./includes/codeblocks/js-filter-json-1.php') ?></code></pre>
+                    <pre class="code-block"><code><?php include('./includes/codeblocks/js-filter-1.php') ?></code></pre>
+                    <p>Returns:</p>
+                    <pre class="code-block"><code>[ "wolf.jpg" ]</code></pre>
+                </div>
+            </details>
+        <!-- ---------------------------------------------------------------------- -->
+
         </div>
 </details>
