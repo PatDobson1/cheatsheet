@@ -18,6 +18,7 @@
 
                 <?php
                     include("./includes/sections/js.php");
+                    include("./includes/sections/php.php");
                     include("./includes/sections/server.php");
                     include("./includes/sections/react.php");
                     include("./includes/sections/taskrunners.php");
