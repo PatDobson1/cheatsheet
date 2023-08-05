@@ -17,7 +17,7 @@
                         <li>Run the async function 'fetchMeals</li>
                 </div>
             </details>
-        <!-- ----------------------------------------------------------------------- -->
+        <!----------------------------------------------------------------------------->
 
         <!-- Convert array to string -------------------------------------------------->
             <details>
@@ -32,7 +32,7 @@
                     </ol>
                 </div>
             </details>
-        <!-- ----------------------------------------------------------------------- -->
+        <!---------------------------------------------------------------------------->
 
         <!-- Sample map functions ----------------------------------------------------->
             <details>
@@ -49,9 +49,9 @@
                     <pre class="code-block"><code><?php include('./includes/codeblocks/js-map-2.php') ?></code></pre>
                 </div>
             </details>
-        <!-- ----------------------------------------------------------------------- -->
+        <!----------------------------------------------------------------------------->
 
-        <!-- Regex ----------------------------------------------------------------- -->
+        <!-- Regex -------------------------------------------------------------------->
             <details>
                 <summary>Regex's</summary>
                 <div>
@@ -60,11 +60,11 @@
                     <p>(Replaces everything with '')</p>
                 </div>
             </details>
-        <!-- ----------------------------------------------------------------------- -->
+        <!----------------------------------------------------------------------------->
 
-        <!-- Loops ----------------------------------------------------------------- -->
+        <!--Object loops -------------------------------------------------------------------->
             <details>
-                <summary>Loops</summary>
+                <summary>Object loops</summary>
                 <div>
                     <h3>Sample JSON data</h3>
                     <pre class="code-block"><code><?php include('./includes/codeblocks/js-map-json.php') ?></code></pre>
@@ -74,9 +74,9 @@
                     <pre class="code-block"><code><?php include('./includes/codeblocks/js-loop-2.php') ?></code></pre>
                 </div>
             </details>
-        <!-- ----------------------------------------------------------------------- -->
+        <!----------------------------------------------------------------------------->
 
-        <!-- Object deconstruction ------------------------------------------------ -->
+        <!-- Object deconstruction --------------------------------------------------->
             <details>
                 <summary>Object deconstruction</summary>
                 <div>
@@ -86,9 +86,9 @@
                     <p>Variables as specified are then available</p>
                 </div>
             </details>
-        <!-- ---------------------------------------------------------------------- -->
+        <!---------------------------------------------------------------------------->
 
-        <!-- Array filtering ------------------------------------------------------ -->
+        <!-- Array filtering --------------------------------------------------------->
             <details>
                 <summary>Array filtering</summary>
                 <div>
@@ -99,7 +99,31 @@
                     <pre class="code-block"><code>[ "wolf.jpg" ]</code></pre>
                 </div>
             </details>
-        <!-- ---------------------------------------------------------------------- -->
+        <!---------------------------------------------------------------------------->
+
+        <!-- String literal ---------------------------------------------------------->
+            <details>
+                <summary>String literals</summary>
+                <div>
+                    <h3>String literals</h3>
+                    <pre class="code-block"><code><?php include('./includes/codeblocks/js-string-literal-1.php') ?></code></pre>
+                    <p>*Note use backticks `</p>
+                </div>
+            </details>
+        <!---------------------------------------------------------------------------->
+
+        <!-- Array loops ------------------------------------------------------------->
+            <details>
+                <summary>Array loops</summary>
+                <div>
+                    <h3>Array loops</h3>
+                    <h4>forEach loop</h4>
+                    <pre class="code-block"><code><?php include('./includes/codeblocks/js-array-loop-1.php') ?></code></pre>
+                    <h4>for-of loop</h4>
+                    <pre class="code-block"><code><?php include('./includes/codeblocks/js-array-loop-2.php') ?></code></pre>
+                </div>
+            </summary>
+        <!---------------------------------------------------------------------------->
 
         </div>
 </details>

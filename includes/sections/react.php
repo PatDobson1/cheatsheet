@@ -13,28 +13,20 @@
                     </ol>
                 </div>
             </details>
-        <!-- ----------------------------------------------------------------------- -->
+        <!----------------------------------------------------------------------------->
 
-        <!-- State/useState -------------------------------------------------------- -->
+        <!-- State/useState ----------------------------------------------------------->
             <details>
                 <summary>useState</summary>
                 <div>
                     <p>Use 'useState' for small amounts of data that are exclusive to a component</p>
                     <p>Simple useState for showing/hiding content</p>
-                    <pre class="code-block">
-                        <code>
-                            <?php include("./includes/codeblocks/react-useState.php") ?>
-                        </code>
-                    </pre>
+                    <pre class="code-block"><code><?php include("./includes/codeblocks/react-useState.php")?></code></pre>
                     <p>Simple useState for incrementing/decrementing a counter</p>
-                    <pre class="code-block">
-                        <code>
-                            <?php include("./includes/codeblocks/react-useState-2.php") ?>
-                        </code>
-                    </pre>
+                    <pre class="code-block"><code><?php include("./includes/codeblocks/react-useState-2.php") ?></code></pre>
                 </div>
             </details>
-        <!-- ----------------------------------------------------------------------- -->
+        <!----------------------------------------------------------------------------->
 
     </div>
 </details>
